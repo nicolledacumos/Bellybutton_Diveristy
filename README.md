@@ -8,4 +8,4 @@ This project was aimed to craft an interactive dashboard displaying data derived
 
 Within this dashbaord, users may navigate thtough different charts displaying naval bacterial species, explore the demographics of individuals from which data was received, and gauge how often participants wash their bellybuttons.
 
-nicolledacumos.github.io/Bellybutton_Diversity
+[nicolledacumos.github.io/Bellybutton_Diversity](https://nicolledacumos.github.io/Bellybutton_Diveristy/)
